@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "516497070021",
+    "project_id": "waterpoloapp-338f5",
+    "storage_bucket": "waterpoloapp-338f5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516497070021:android:4e44b7f260b18e648c9dac",
+        "android_client_info": {
+          "package_name": "com.example.waterpoloapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfFlNF205lZhsrvbCujGk9MEa6xobW5hw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

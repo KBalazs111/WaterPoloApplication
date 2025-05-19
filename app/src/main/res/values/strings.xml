@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Vízilabda Liga</string>
+
+    <!-- Bejelentkezés és regisztráció -->
+    <string name="login">Bejelentkezés</string>
+    <string name="register">Regisztráció</string>
+    <string name="email">Email cím</string>
+    <string name="password">Jelszó</string>
+    <string name="confirm_password">Jelszó megerősítése</string>
+    <string name="no_account">Nincs még fiókod? Regisztrálj!</string>
+    <string name="already_registered">Már regisztráltál? Jelentkezz be!</string>
+
+    <!-- Mérkőzések -->
+    <string name="matches">Mérkőzések</string>
+    <string name="add_match">Mérkőzés hozzáadása</string>
+    <string name="edit_match">Mérkőzés szerkesztése</string>
+    <string name="delete_match">Mérkőzés törlése</string>
+    <string name="match_details">Mérkőzés részletei</string>
+    <string name="match_date">Mérkőzés időpontja</string>
+    <string name="select_date">Dátum kiválasztása</string>
+    <string name="select_time">Időpont kiválasztása</string>
+
+    <!-- Csapatok -->
+    <string name="teams">Csapatok</string>
+    <string name="add_team">Csapat hozzáadása</string>
+    <string name="edit_team">Csapat szerkesztése</string>
+    <string name="delete_team">Csapat törlése</string>
+    <string name="team_details">Csapat részletei</string>
+    <string name="team_name">Csapat neve</string>
+    <string name="team_logo">Csapat logó</string>
+    <string name="select_team">Csapat kiválasztása</string>
+    <string name="home_team">Hazai csapat</string>
+    <string name="away_team">Vendég csapat</string>
+    <string name="take_photo">Fénykép készítése</string>
+    <string name="choose_from_gallery">Választás a galériából</string>
+
+    <!-- Általános -->
+    <string name="save">Mentés</string>
+    <string name="cancel">Mégse</string>
+    <string name="delete">Törlés</string>
+    <string name="vs">vs</string>
+    <string name="loading">Betöltés...</string>
+    <string name="error">Hiba történt</string>
+    <string name="success">Sikeres művelet</string>
+    <string name="confirmation">Megerősítés</string>
+    <string name="confirm_delete">Biztosan törölni szeretnéd?</string>
+    <string name="yes">Igen</string>
+    <string name="no">Nem</string>
+
+    <!-- Értesítések -->
+    <string name="default_notification_channel_id">match_notifications</string>
+    <string name="notification_channel_name">Mérkőzés értesítések</string>
+    <string name="notification_channel_description">Értesítések a közelgő mérkőzésekről</string>
+    <string name="upcoming_match">Közelgő mérkőzés</string>
+    <string name="match_reminder">Ne felejtsd el, %1$s és %2$s hamarosan játszik!</string>
+</resources>
